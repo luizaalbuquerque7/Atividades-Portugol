@@ -1,18 +1,18 @@
 programa {
   funcao inicio() {
-    // Minhas InformaÁıes
+    // Minhas Informa√ß√µes
   /*
-    Aqui È um Coment·rio de mais de uma linha 
-    posso adicionar diversas linhas de coment·rios
-    essse coment·rio n„o È interpretador  
+    Aqui √© um Coment√°rio de mais de uma linha 
+    posso adicionar diversas linhas de coment√°rios
+    essse coment√°rio n√£o √© interpretador  
     */
 
-//DesclaraÁ„o de vari·veis
+//Desclara√ß√£o de vari√°veis
     cadeia nome
     inteiro idade
     real altura
 
-//AtribuiÁ„oes vari·veis
+//Atribui√ß√£oes vari√°veis
 nome = "Maria Luiza"
 idade = 16
 altura = 1.61
